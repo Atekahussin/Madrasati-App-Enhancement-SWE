@@ -5,23 +5,23 @@
 ![KFU](https://img.shields.io/badge/University-King%20Faisal%20University-green.svg)
 
 ## 📌 Project Overview
-This project focuses on the systematic analysis and architectural enhancement of the **Madrasati** educational application[cite: 13]. [cite_start]The primary goal is to improve teacher-student communication and streamline educational workflows by proposing new features and verifying the system's scalability[cite: 13].
+This project focuses on the systematic analysis and architectural enhancement of the **Madrasati** educational application. The primary goal is to improve teacher-student communication and streamline educational workflows by proposing new features and verifying the system's scalability.
 
 ## 🚀 Proposed Features & Enhancements
-- [cite_start]**Intelligent Feedback Loop:** A system allowing students to share explanations with teachers and receive direct feedback and graded evaluations[cite: 13].
-- [cite_start]**Volunteer Hour Tracking:** Automated calculation of volunteered hours for students based on their contributions within the app[cite: 13].
-- [cite_start]**AI Chatbot Integration:** A messaging feature that utilizes a database-driven chatbot to provide instant answers to student queries[cite: 13].
+- **Intelligent Feedback Loop:** A system allowing students to share explanations with teachers and receive direct feedback and graded evaluations.
+- **Volunteer Hour Tracking:** Automated calculation of volunteered hours for students based on their contributions within the app.
+- **AI Chatbot Integration:** A messaging feature that utilizes a database-driven chatbot to provide instant answers to student queries.
 
 ## 🛠️ Software Modeling (UML)
-[cite_start]The project emphasizes rigorous design through **Sequence Diagrams** to illustrate system logic[cite: 13]. Below is a detailed view of the communication workflow:
+The project emphasizes rigorous design through **Sequence Diagrams** to illustrate system logic. Below is a detailed view of the communication workflow for the teacher-student feedback process:
 
 ![Teacher-Student Feedback Sequence Diagram](./image/sequence-dia.png)
 
 ## 📁 Repository Structure
-- [cite_start]`Documentation/`: Contains the full software engineering project report (`SWE_Project_Madrasati.pdf`) featuring all milestones and design diagrams[cite: 13].
+- `Documentation/`: Contains the full software engineering project report (`SWE_Project_Madrasati.pdf`) featuring all milestones and design diagrams.
 
 ## 👥 The Team
-[cite_start]Developed by Computer Science students at **King Faisal University**[cite: 13]:
+Developed by Computer Science students at **King Faisal University**:
 - **Atekah Hussain Aljafar**
 - Ghaidaa Hussain
 - Anfal Ahmad
@@ -29,7 +29,7 @@ This project focuses on the systematic analysis and architectural enhancement of
 - **Supervised by:** Dr. Sharmila Banu Sheik Imam
 
 ---
-[cite_start]*Part of the Fundamental of Software Engineering Course - KFU (February 2024)*[cite: 13].
+*Part of the Fundamental of Software Engineering Course - KFU (February 2024).*
 ---
 *Connect with me on LinkedIn for more projects!*
 [https://www.linkedin.com/in/ateka-hussain/](https://www.linkedin.com/in/ateka-hussain/)
